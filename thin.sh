@@ -23,4 +23,3 @@ else
 fi
 
 
-tôi giau qua
