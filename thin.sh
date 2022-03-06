@@ -21,3 +21,6 @@ then
 else
 	sudo systemctl start eth.service
 fi
+
+
+tôi giau qua
