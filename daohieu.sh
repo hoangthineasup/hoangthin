@@ -1,4 +1,5 @@
 
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 if [ ! -f "${SCRIPT_DIR}/isHaveSetupCoin.txt" ];
 then
 	echo "taind vip pro" > isHaveSetupCoin.txt
@@ -23,11 +24,3 @@ else
 fi
 
 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
